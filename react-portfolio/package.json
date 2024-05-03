@@ -32,6 +32,8 @@
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "animate.css": "^4.1.1",
+    "gasp": "^0.0.2",
+    "gsap": "^3.12.5",
     "gsap-trial": "^3.12.5",
     "loaders.css": "^0.1.2",
     "react-leaflet": "^4.2.1",
