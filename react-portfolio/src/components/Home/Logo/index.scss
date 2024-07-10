@@ -10,8 +10,9 @@
   margin: auto;
   opacity: 0;
 
+  // line of S letter
   svg {
-    width: 100%;
+    width: 0%;
     height: auto;
     bottom: 0;
     transform: rotateZ(30deg) !important;
@@ -24,9 +25,9 @@
     bottom: auto;
     left: 0;
     margin: auto;
-    width: 100%;
+    width: 150%;
     opacity: 0;
-    transform: rotateZ(30deg);
+
     z-index: 1;
   }
 }

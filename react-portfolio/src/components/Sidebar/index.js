@@ -7,8 +7,10 @@ import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
 import {
   faGithub,
   faLinkedin,
-  faSkype,
-  faYoutube,
+  // faSkype,
+  // faYoutube,
+  faFacebook,
+  faInstagram,
 } from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
@@ -61,9 +63,9 @@ const Sidebar = () => (
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.linkedin.com/in/kihyeon-kim-52027324a/"
+          href="https://www.facebook.com/profile.php?id=100073711603545"
         >
-          <FontAwesomeIcon icon={faYoutube} color="#4d4d4e" />
+          <FontAwesomeIcon icon={faFacebook} color="#4d4d4e" />
         </a>
       </li>
       <li>
@@ -72,7 +74,7 @@ const Sidebar = () => (
           rel="noreferrer"
           href="https://www.linkedin.com/in/kihyeon-kim-52027324a/"
         >
-          <FontAwesomeIcon icon={faSkype} color="#4d4d4e" />
+          <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
         </a>
       </li>
     </ul>
