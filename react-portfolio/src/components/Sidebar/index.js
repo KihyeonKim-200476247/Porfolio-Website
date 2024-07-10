@@ -7,8 +7,7 @@ import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
 import {
   faGithub,
   faLinkedin,
-  // faSkype,
-  // faYoutube,
+  faSkype,
   faFacebook,
   faInstagram,
 } from '@fortawesome/free-brands-svg-icons'
