@@ -1,6 +1,4 @@
 import { useEffect, useRef } from 'react'
-import gasp from 'gsap-trial'
-import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin'
 import LogoS from '../../../assets/images/logo-s.png'
 import './index.scss'
 import Loader from 'react-loaders'
